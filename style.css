@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+.topcont{
+    background-color:darkturquoise;
+    position: relative;
+ }
+.web{
+    text-decoration: underline;
+   
+ }
+.dev{
+    margin:0 auto 0 auto;
+    padding-top: 10px;
+   
+    font-family:Arial Rounded MT Bold;
+    font-size: 3em;
+}
+
+.raghav{
+    
+    color: floralwhite;
+    font-size: 4.5em;
+    font-family:'Sacramento',cursive;
+    margin: 0 auto 0 auto;
+ }
+.cb{
+    position: relative;
+    left:20px;
+    bottom: 300px;
+ }
+.cf{
+    position: relative;
+    right: 30px;
+    bottom: 100px;
+ }
+.middlecont{
+ 
+  text-align: center;
+  
+}
+.buttomcont{
+   
+}
+.mo{
+    
+    margin: 0px;
+    text-align:center;
+}
+.ul{
+    text-align: left;
+}
+hr{
+    border-style:solid none none;
+    width: 100%;
+    border-color:lightsalmon;
+    border-width: 10px;
+    height: 4px;
+
+    
+}
